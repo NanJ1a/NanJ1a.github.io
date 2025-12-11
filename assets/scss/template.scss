@@ -118,12 +118,13 @@ ul.network-icon .big-icon {
 
 .custom.custom-xiaohaongshu {
   display: inline-block;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 0.95em;
+  height: 0.95em;
   background-color: #FF2442;
   background-image: url("/icons/xiaohongshu.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
   vertical-align: middle;
+  border-radius: 0.25em;
 }
