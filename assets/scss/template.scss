@@ -115,3 +115,14 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+.custom.custom-xiaohaongshu {
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  background-image: url("/icons/xiaohongshu.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  vertical-align: middle;
+}
