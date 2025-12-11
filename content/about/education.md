@@ -35,15 +35,26 @@ experience:
         * Hiking Club
 
   - title: BEng Electronics and Communications Engineering
-    company: Beijing Jiaotong University & Lancaster University
+    company: Beijing Jiaotong University
     company_url: ''
-    company_logo: org-lu
+    company_logo: org-bjtu
     location: Weihai
     date_start: '2016-09-01'
     date_end: '2020-06-30'
     description: |2-
-        * Degree Classification: First class honors
+        * Scholarship for excellent study between 2016 and 2019
+        * Yoga Club
 
+  - title: BEng Electronics and Communications Engineering
+    company: Lancaster University
+    company_url: ''
+    company_logo: org-lu
+    location: Lancaster
+    date_start: '2016-09-01'
+    date_end: '2020-06-30'
+    description: |2-
+        * Degree Classification: First class honors
+        
 design:
   columns: '1'
 ---
