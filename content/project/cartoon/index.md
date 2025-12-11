@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: TZL Coffee Website
+summary: A website independently created and developed by the TZL team.
 tags:
   - CV
-date: 2022-01-01
-external_link: http://github.com
+date: 2024-04-01
+external_link: https://tzl-coffee.github.io/
 ---
