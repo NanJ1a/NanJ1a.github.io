@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Nan Jia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'content creator'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🦢
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I amacreative, hands‑on problemsolver with experience turning ideas into real outcomes. While running my own café,I also built a Xiaohongshu channel with 2,000 followers, producing over 100 posts and several viral videos. These experiences strengthened my ability to manage diverse projects, create engaging content, and deliver results under pressure
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: mailto:zczlnj0@gmail.com # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: www.linkedin.com/in/nannanjia
+  - icon: book
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.xiaohongshu.com/user/profile/6572c56c0000000020036b08
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +66,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nan Jia is a builder, storyteller, and lifelong learner. With an engineering background and hands-on experience in entrepreneurship and content creation, I enjoy taking ideas from concept to execution. Whether it’s managing projects, creating videos, or designing experiences, I bring energy, ownership, and creativity to everything I do.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Nan_Jia_CV_Creator.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
