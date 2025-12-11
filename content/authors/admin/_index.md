@@ -6,7 +6,7 @@ title: Nan Jia
 superuser: true
 
 # Role/position
-role: 'content creator'
+role: 'Content Creator'
 
 # Status emoji
 status:
@@ -48,8 +48,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/nannanjia
-  - icon: book
-    icon_pack: fab
+  - icon: xiaohongshu
+    icon_pack: brands
     link: https://www.xiaohongshu.com/user/profile/6572c56c0000000020036b08
 # Uncomment below for Github link
 #- icon: github
