@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I amacreative, hands‑on problemsolver with experience turning ideas into real outcomes. While running my own café,I also built a Xiaohongshu channel with 2,000 followers, producing over 100 posts and several viral videos. These experiences strengthened my ability to manage diverse projects, create engaging content, and deliver results under pressure
+bio: I am a creative, hands‑on problem solver with experience turning ideas into real outcomes. While running my own café,I also built a Xiaohongshu channel with 2,000 followers, producing over 100 posts and several viral videos. These experiences strengthened my ability to manage diverse projects, create engaging content, and deliver results under pressure
 
 #interests:
 #- Artificial Intelligence

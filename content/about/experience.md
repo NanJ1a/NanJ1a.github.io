@@ -47,7 +47,7 @@ experience:
         Responsibility include:
 
         * Launched an independent coffee brand,developing its visual identity, including logo design and promotional materials.
-        * Created and refined adiverse beverage menu through market research and product experimentation.
+        * Created and refined a diverse beverage menu through market research and product experimentation.
         * Managed all operational processes‑procurement,inventory,financial tracking,and risk control‑to ensure sustainable business performance.
         * Operated a Xiaohongshu(Rednote) account as the brand’s primary marketing channel, growing it to 2000 followers organically. Produced 100+ posts/videos since 2024, and achieved 10+ viral pieces, with the top post exceeding 1M views and 10K likes. 
         * Designed and launched the café’s website as part of a cohesive brand ecosystem, aligning visual identity with social media content and customer communication.
@@ -55,7 +55,7 @@ experience:
     title: 3GPP Standardization Intern
     company: MediaTek
     company_url: 'https://www.mediatek.com'
-    company_logo: mediatek
+    company_logo: MediaTek
     location: Cambridge
     date_start: '2022-05-01'
     date_end: '2022-11-30'
