@@ -25,7 +25,7 @@ experience:
   - title: MSc Wireless and Optical Communications
     company: University College London
     company_url: ''
-    company_logo: UCL
+    company_logo: ucl
     location: London
     date_start: '2021-09-01'
     date_end: '2022-12-01'
@@ -37,7 +37,7 @@ experience:
   - title: BEng Electronics and Communications Engineering
     company: Beijing Jiaotong University & Lancaster University
     company_url: ''
-    company_logo: LU
+    company_logo: lu
     location: Weihai
     date_start: '2016-09-01'
     date_end: '2020-06-30'

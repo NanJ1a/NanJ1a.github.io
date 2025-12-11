@@ -39,7 +39,7 @@ experience:
   - title: Founder & Brand Creator
     company: TZL Coffee
     company_url: 'https://tzl-coffee.github.io/'
-    company_logo: TZL
+    company_logo: tzl
     location: Chongqing
     date_start: '2024-03-01'
     date_end: '2025-04-30'
@@ -55,7 +55,7 @@ experience:
     title: 3GPP Standardization Intern
     company: MediaTek
     company_url: 'https://www.mediatek.com'
-    company_logo: MediaTek
+    company_logo: mediatek
     location: Cambridge
     date_start: '2022-05-01'
     date_end: '2022-11-30'
