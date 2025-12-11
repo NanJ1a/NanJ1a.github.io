@@ -47,9 +47,8 @@ social:
     link: mailto:zczlnj0@gmail.com # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/nannanjia
-  - icon: xiaohongshu.svg
-    icon_pack: custom
+    link: https://www.linkedin.com/in/nannanjia
+  - icon: brands/twitter
     link: https://www.xiaohongshu.com/user/profile/6572c56c0000000020036b08
 # Uncomment below for Github link
 #- icon: github
