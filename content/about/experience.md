@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Chongqing
-    date_start: '2025-01'
-    date_end: '2025-10'
+    date_start: '2025-01-01'
+    date_end: '2025-10-31'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: 'https://tzl-coffee.github.io/'
     company_logo: TZL
     location: Chongqing
-    date_start: '2024-3'
-    date_end: '2025-4'
+    date_start: '2024-03-01'
+    date_end: '2025-04-30'
     description: |2-
         Responsibility include:
 
@@ -57,8 +57,8 @@ experience:
     company_url: 'https://www.mediatek.com'
     company_logo: mediatek
     location: Cambridge
-    date_start: '2022-5'
-    date_end: '2022-11'
+    date_start: '2022-05-01'
+    date_end: '2022-11-30'
     description: |2-
         Responsibility include:
 
