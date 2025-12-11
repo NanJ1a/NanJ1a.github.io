@@ -52,7 +52,7 @@ experience:
         * Operated a Xiaohongshu(Rednote) account as the brand’s primary marketing channel, growing it to 2000 followers organically. Produced 100+ posts/videos since 2024, and achieved 10+ viral pieces, with the top post exceeding 1M views and 10K likes. 
         * Designed and launched the café’s website as part of a cohesive brand ecosystem, aligning visual identity with social media content and customer communication.
 
-    title: 3GPP Standardization Intern
+  - title: 3GPP Standardization Intern
     company: MediaTek
     company_url: 'https://www.mediatek.com'
     company_logo: org-mediatek
