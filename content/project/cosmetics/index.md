@@ -1,6 +1,6 @@
 ---
 title: Xiaohongshu (Rednote) Channel
-summary: A social media platform used for recording my entrepreneurial experience.
+summary: A social media account documenting my entrepreneurial journey through written posts and videos.
 tags:
   - NLP
 date: 2024-03-01
