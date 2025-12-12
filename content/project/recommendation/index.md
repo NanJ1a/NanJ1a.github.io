@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Self-designed postcard
+summary: A set of postcards that I painted and designed myself.
 tags:
   - ML
-date: 2022-01-01
-external_link: http://github.com
+date: 2024-04-01
+external_link: 
 ---
