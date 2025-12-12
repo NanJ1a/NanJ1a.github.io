@@ -1,5 +1,5 @@
 ---
-title: Self-designed postcard
+title: Self-designed Postcard
 summary: A set of postcards that I painted and designed myself.
 tags:
   - CW
