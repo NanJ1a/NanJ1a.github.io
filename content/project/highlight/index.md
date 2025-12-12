@@ -10,6 +10,7 @@ date: 2024-03-02
 * [Collaborating with a Viral Mural Artist](https://www.xiaohongshu.com/explore/662a0fdb000000001c008403?xsec_token=ABbnAzjhbsaD4g_xQkWCA3fiPymm5CH7IU-hHu96Tgl9g=&xsec_source=pc_user)
 * [Unexpected Challenges in Taking Over a Coffee Shop](https://www.xiaohongshu.com/explore/66504fcc000000000c01ac98?xsec_token=ABhzvy9gkk3-D5ntxS3WXIWnpagBnK6bEfI58hrN-k9Xk=&xsec_source=pc_user)
 * [The Case of a “Ghost Order”](https://www.xiaohongshu.com/explore/66588d4900000000150128be?xsec_token=ABheeFelQM-Dbb_VKxSmknDw15YB6ardSnKez-47h86Do=&xsec_source=pc_user)
+* [The Case of a “Ghost Order”-continued](https://www.xiaohongshu.com/explore/6659389c000000001500929b?xsec_token=AB7RnMQgSRCyj6IFHaYqBrhGscGhvsPhU60PfjHbjAxaU=&xsec_source=pc_user)
 * [Behind the Bar: Crafting a Grape Sparkling Americano](https://www.xiaohongshu.com/explore/66ac6f260000000005032a99?xsec_token=ABRb_ioBcJg_lSINZ46qTucqQGyYW0iw8LiWqIhphm_r0=&xsec_source=pc_user)
 * [Did I Really See a Wolf at a Dutch Market?](https://www.xiaohongshu.com/explore/6713bf3e000000001b013db0?xsec_token=ABaBdlHNid7NmZdlZFrHst91WV9KPw7P-nZn_OR-NrpFM=&xsec_source=pc_user)
 * [When the Bed Collapsed at Midnight](https://www.xiaohongshu.com/explore/6750fd2b000000000202bb93?xsec_token=ABsIyoTqLvFmacysuyF8LN3nTJtg4O3u4MYM_y6eKkrC0=&xsec_source=pc_user)
