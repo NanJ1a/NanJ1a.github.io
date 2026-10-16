@@ -24,5 +24,5 @@ design:
 * [An Ordinary Life, Unmarked by Success]( https://xhslink.cn/o/4NoWuGU6DJQ )
 * [What We Mean When We Ask, "What Do You Want to Eat?"](https://xhslink.cn/o/5UGFYKGjw2D )
 * [Reflection on "Return to the wildness"](https://xhslink.cn/o/4cUWlMvRWMU )
-* [Documentary Recommendations: Must-watch Before Your Trip to Italy](https://xhslink.cn/o/2CZ5gJa0tI3 )
-* [Documentary Recommendations: Must-watch Before Your Trip to Austria](https://xhslink.cn/o/2A5kDOHmLw9 )
+* [Must-watch Documentaries Before Your Trip to Italy](https://xhslink.cn/o/2CZ5gJa0tI3 )
+* [Must-watch Documentaries Before Your Trip to Austria](https://xhslink.cn/o/2A5kDOHmLw9 )

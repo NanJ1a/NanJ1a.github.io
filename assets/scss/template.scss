@@ -260,37 +260,60 @@ ul.network-icon .big-icon {
   }
 }
 
-// Dark Mode Adaptation
+// Dark Mode Adaptation (Electric Aurora / Cyber Glow)
 .dark {
   .page-highlight-content .article-style ul,
   .fancy-content-cards ul {
     li a {
-      background: linear-gradient(135deg, rgba(38, 48, 64, 0.88) 0%, rgba(28, 36, 49, 0.88) 100%);
-      color: #f1f5f9;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.22);
+      // Dark Theme Base Card
+      background: linear-gradient(135deg, rgba(25, 33, 44, 0.88) 0%, rgba(18, 24, 34, 0.92) 100%);
+      color: #e2e8f0;
+      border: 1px solid rgba(148, 163, 184, 0.14);
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.04);
 
-      &::after {
-        background: rgba(255, 36, 66, 0.18);
-        color: #ff5e75;
+      // Left Indicator Dot: Luminous Aurora Pulse
+      &::before {
+        background: linear-gradient(135deg, #38bdf8, #818cf8);
+        box-shadow: 0 0 8px rgba(56, 189, 248, 0.45);
       }
 
+      // Right Arrow Button
+      &::after {
+        background: rgba(56, 189, 248, 0.1);
+        color: #38bdf8;
+        border: 1px solid rgba(56, 189, 248, 0.22);
+      }
+
+      // Hover State (Futuristic Celestial Aurora Glow)
       &:hover {
-        border-color: rgba(255, 82, 108, 0.55);
-        color: #ff758c;
-        background: linear-gradient(135deg, rgba(48, 59, 78, 0.95) 0%, rgba(64, 38, 46, 0.85) 100%);
-        box-shadow: 0 14px 28px -6px rgba(255, 36, 66, 0.28), 0 6px 14px rgba(0, 0, 0, 0.4);
+        border-color: rgba(56, 189, 248, 0.55);
+        color: #ffffff;
+        background: linear-gradient(135deg, rgba(30, 42, 58, 0.95) 0%, rgba(22, 30, 44, 0.95) 100%);
+        box-shadow: 0 14px 30px -4px rgba(0, 0, 0, 0.65), 0 0 22px rgba(56, 189, 248, 0.25), 0 0 6px rgba(99, 102, 241, 0.35);
+
+        &::before {
+          transform: scale(1.5);
+          box-shadow: 0 0 14px 3px rgba(56, 189, 248, 0.85);
+        }
 
         &::after {
-          background: #ff2442;
+          transform: translate(2px, -2px) rotate(8deg);
+          background: linear-gradient(135deg, #38bdf8 0%, #6366f1 100%);
           color: #ffffff;
-          box-shadow: 0 4px 12px rgba(255, 36, 66, 0.6);
+          border-color: transparent;
+          box-shadow: 0 0 14px rgba(56, 189, 248, 0.65);
         }
       }
 
+      // Click / Active State (Crisp Neon Press)
       &:active {
         transform: translateY(1px) scale(0.985);
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+        border-color: #38bdf8;
+        box-shadow: 0 0 16px rgba(56, 189, 248, 0.45), inset 0 0 8px rgba(56, 189, 248, 0.2);
+
+        &::after {
+          transform: scale(0.92);
+        }
       }
     }
   }
