@@ -1,0 +1,12 @@
+{{/* Local override to avoid Hugo 0.150+ deprecated .Site.GoogleAnalytics error */}}
+{{- $id := site.Config.Services.GoogleAnalytics.ID | default site.Params.marketing.analytics.google_analytics -}}
+{{- if $id -}}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ $id }}');
+</script>
+{{- end -}}
+

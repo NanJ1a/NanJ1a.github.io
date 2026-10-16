@@ -4,6 +4,8 @@ summary: Popular written posts and videos
 tags:
   - CW
 date: 2024-03-02
+design:
+  css_class: page-highlight-content
 ---
 
 * [From Studying Abroad to Opening a Coffee Shop](https://xhslink.cn/o/6PAw1UmSocF )
