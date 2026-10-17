@@ -51,6 +51,9 @@ social:
   - icon: xiaohongshu
     icon_pack: custom
     link: https://www.xiaohongshu.com/user/profile/6572c56c0000000020036b08
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/jasmine_jnn/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
