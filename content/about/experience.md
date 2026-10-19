@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Private Tour Guide for Foreigners
+  - title: Private Tour Guide for International Tourists
     company: Freelancer
     company_url: ''
     company_logo: 
@@ -35,6 +35,7 @@ experience:
         * Engaged with international clients to understand travel preferences, dietary needs, and cultural considerations.
         * Designed customized itineraries and coordinated logistics to ensure a smooth travel experience.     
         * Guided guests through Chongqing, providing local insights and proactive support while adapting plans in real time.
+        * Organized and edited travel footage to create engaging video content capturing key moments and experiences.
 
   - title: Founder & Brand Creator
     company: TZL Coffee
